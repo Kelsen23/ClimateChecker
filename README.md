@@ -7,7 +7,7 @@ Climate Checker is a simple climate application built with HTML, CSS, and vanill
 - **Wind Speed**: Speed of the wind in km/h or mph
 - **Humidity**: Percentage of moisture in the air
 
-![Climate Checker Logo](./images/cloud-svg.svg)
+<img src="./images/cloud-svg.svg" alt="Climate Checker Logo" width="200"/>
 
 ## Features
 
